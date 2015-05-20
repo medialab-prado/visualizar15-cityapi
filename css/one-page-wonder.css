@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('/blob/gh-pages/images/photo-1420819453217-57b6badd9e19.jpeg') no-repeat center center scroll;
+    background: url('http://medialab-prado.github.io/visualizar15-cityapi/images/photo-1420819453217-57b6badd9e19.jpeg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
